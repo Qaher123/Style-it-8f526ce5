@@ -1,0 +1,29 @@
+h1 {
+	font-size: 250%;
+}
+table,
+td {
+	border :1px solid;
+	font-size: 180%;
+	padding: 1% 
+
+}
+td[scope="col"]
+{
+	background-color: red;
+}
+td[scope="lol"]
+{
+	background-color:blue;
+}
+td[scope="lmao"]
+{
+	background-color: yellow;
+}
+td[scope="oke"]
+{
+	background-color: green;
+}
+table {
+	width:100%;
+}
